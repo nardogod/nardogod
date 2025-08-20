@@ -1,7 +1,7 @@
-# ⚔️ NardoGod ⚔️
+# ⚔️ NardoGomes ⚔️
 
 **Full-Stack Engineer · AI & LLM Specialist · SaaS Developer**
-**Leonardo “NardoGod” Gomes** — Relocating to Sweden (available Sept 2025) · English (advanced)
+**Leonardo “NardoGomes” Gomes** — Relocating to Sweden (available Sept 2025) · English (advanced)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nardogod) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nardogomes.lg@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nardogod)
 

@@ -132,10 +132,9 @@ I build production-ready web apps and SaaS platforms and ship LLM-driven feature
 
 ## How to Evaluate Me Quickly
 
-1. **Quick repo review:** start with `Depósito AP Online` and `Agenda Livre`.
+1. **Take-home idea:** provide a CSV normalization endpoint using an LLM for text normalization — I’ll deliver an MVP.
 2. **Live demo request:** I can show a short 5–10 minute demo of prompt → scaffold → hardened endpoint.
-3. **Take-home idea:** provide a CSV normalization endpoint using an LLM for text normalization — I’ll deliver an MVP.
-4. **Interview:** I prefer a practical session (pair-programming or prompt task).
+3. **Interview:** I prefer a practical session (pair-programming or prompt task).
 
 ---
 

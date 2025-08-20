@@ -145,7 +145,7 @@ I build production-ready web apps and SaaS platforms and ship LLM-driven feature
 **Work:** Remote or on-site; English is my working language (advanced)
 **Email:** [nardogomes.lg@gmail.com](mailto:nardogomes.lg@gmail.com)
 **GitHub:** [https://github.com/nardogod](https://github.com/nardogod)
-**LinkedIn:** [https://www.linkedin.com/in/nardogod](https://www.linkedin.com/in/leonardo-gomes-83b8564a/)
+**LinkedIn:** (https://www.linkedin.com/in/leonardo-gomes-83b8564a/)
 
 ---
 

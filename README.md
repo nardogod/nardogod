@@ -1,84 +1,160 @@
-# ⚔️ NardoGod ⚔️  
-*Aventureiro das Terras Digitais*
+# ⚔️ NardoGod ⚔️
+
+**Full-Stack Engineer · AI & LLM Specialist · SaaS Developer**
+**Leonardo “NardoGod” Gomes** — Relocating to Sweden (available Sept 2025) · English (advanced)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nardogod) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nardogomes.lg@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nardogod)
 
 ---
 
-## 🏰 **Sobre o Cavaleiro**
+## Table of Contents
 
-Saudações, viajante! Me chamo Leonardo Gomes, vulgo **NardoGod**, um valente mago das terras digitais, forjando códigos e construindo reinos virtuais com as artes ancestrais da programação.
-
-> *"Um mago nunca se atrasa nem se adianta. Ele chega exatamente quando pretende chegar."*  
-> ~ Gandalf, o Cinzento ~
-
----
-
-## 🗺️ **Conexões do Reino**
-
-[![⚔️ Arsenal de Códigos](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nardogod)  
-[![📧 Pombo Correio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nardogomes.lg@gmail.com)
+* [TL;DR](#tldr)
+* [Core Value Proposition](#core-value-proposition)
+* [Skills Snapshot](#skills-snapshot)
+* [Selected Work (Scannable)](#selected-work-scannable)
+* [How I Use LLMs (Concrete)](#how-i-use-llms-concrete)
+* [What I Deliver (Immediate Wins)](#what-i-deliver-immediate-wins)
+* [How to Evaluate Me Quickly](#how-to-evaluate-me-quickly)
+* [Availability & Contact](#availability--contact)
 
 ---
 
-## 🎯 **Armas e Habilidades**
+## TL;DR
 
-### ⚔️ Armas de Combate
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=Lâmina%20Dourada)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Serpente%20Sábia)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&label=Escudo%20Azul)
-
-### 🏰 Estruturas de Defesa
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=Torre%20Reativa)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&label=Fortaleza%20Verde)
-
-
-### 🗃️ Cofres do Tesouro
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white&label=Baú%20Verde)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&label=Cofre%20Azul)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&label=Vault%20Real)
-
-### 🔧 Ferramentas Mágicas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&label=Pergaminho%20do%20Tempo)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&label=Correio%20Real)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Grimório%20Azul)
+I build production-ready web apps and SaaS platforms and ship LLM-driven features that solve real business problems. I use LLMs (ChatGPT, Claude, Google PaLM, GitHub Copilot, Kiko) as engineering tools — from prompt design and scaffolding to integration and hardening.
+**Open for:** Prompt Engineer · LLM Engineer · Full-Stack (AI-first) · SaaS Engineer.
+**Relocation:** Sweden — available Sept 2025. Remote or on-site roles welcome.
 
 ---
 
-## 📊 **Pergaminhos das Conquistas**
+## Core Value Proposition
 
-<div align="center">
-
-### 🏆 Estatísticas do Guerreiro  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nardogod&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
-
-### ⚔️ Armas mais Utilizadas  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nardogod&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8)
-
-### 🔥 Sequência de Vitórias  
-![GitHub Streak](https://streak-stats.demolab.com/?user=nardogod&theme=dark&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F8D866&currStreakLabel=C9D1D9)
-
-</div>
+* **Rapid, reliable prototyping:** I transform ideas into MVPs fast using LLM-assisted scaffolding and manual hardening.
+* **End-to-end ownership:** API design, auth, DB modeling, frontend, deployment.
+* **LLM-first automation:** Practical prompt engineering, orchestration of tasks, and safety guardrails.
+* **Business-focused engineering:** SaaS & e-commerce integrations, analytics and automation that reduce manual work.
 
 ---
 
-## 🏛️ **Grandes Conquistas**
+## Skills Snapshot
 
-### 🏆 Projetos Épicos
-- **[Projeto Épico 1]** – **Depósito AP Online** – Plataforma de gestão de estoque e vendas para pequenos comércios*  
-- **[Projeto Épico 2]** – **Agenda livre** – Plataforma de gestão para cabelereiros (crud)*
-- **[Projeto Épico 3]** – **Sistema de previsao de açoes (machine learning - curso Udamy)**
+**Languages:** Python · JavaScript · TypeScript
+
+**Frontend:** React · Next.js · Tailwind · Canvas UI
+
+**Backend:** Django · Django REST Framework · Node.js
+
+**Databases:** PostgreSQL · MySQL · MongoDB
+
+**ML & Data:** TensorFlow/Keras · Pandas · yfinance · Streamlit · Plotly
+
+**LLMs & Tools:** OpenAI (ChatGPT) · Anthropic Claude · Google PaLM · GitHub Copilot · Kiko
+
+**DevOps:** Git · Vercel/Netlify · Docker (recommended) · CI/CD
 
 
-## 🎯 **Missões Atuais**
-
-- 🔮 Estudando: **WEX - End to End Engineering**
-- ⚔️ Trabalhando em: **Plataforma SaaS de integração de estoque**
-- 🛡️ Aprimorando: **Escalabilidade com Django + Java dentre outras**
-- 🏰 Objetivo: **Migraçao da area administrativa comercial para T.I **
 
 ---
 
-## 🗺️ **Jornada do Herói**
-📅 2023 - Início da jornada nas terras da programação
-🎓 2024 - Cursos livres em Desenvolvimento Web
-💼 2024 - Primeiros projetos para portifolio como desenvolvedor
-⚔️ 2025 - Deploy de algumas aplicacoes como : SaaS Depósito AP Online entre outras.
+## Selected Work (Scannable)
+
+> *Each project below summarizes impact, stack, and the LLM role. Recruiters: click project links in the repo list for code and demos.*
+
+### 🧰 Depósito AP Online — SaaS Inventory & Sales
+
+**Stack:** Django + DRF · React · PostgreSQL · JWT
+
+**LLM role:** Generated API scaffolds, test scenarios, initial docs — manually reviewed & secured.
+
+**Why it matters:** Fast MVP for SMB inventory management; showcases full-stack patterns and business logic.
+
+---
+
+### 📅 Agenda Livre — Scheduling & Management for Salons
+
+**Stack:** Next.js · TypeScript · Tailwind CSS
+
+**LLM role:** Prompt-assisted component generation, accessibility test drafts, and content suggestions.
+
+**Why it matters:** Polished frontend with real UX considerations and protected routes.
+
+---
+
+### 📈 Stock Prediction System — ML Prototype
+
+**Stack:** Python · yfinance · Pandas · TensorFlow (LSTM) · Streamlit
+
+**LLM role:** Data-prep scripts, experiment scaffolds and analysis summaries.
+
+**Why it matters:** Shows ability to prototype forecasting workflows and visual dashboards.
+
+---
+
+### 🔧 Project Analyzer & Dev Tooling
+
+**Stack:** Python CLI
+
+**LLM role:** Designed parsing heuristics and code-smell checks; accelerated rule creation.
+
+**Why it matters:** Demonstrates automation, developer productivity, and tooling mindset.
+
+---
+
+### 🌐 Portfolios & Client Sites
+
+**Stack:** Next.js · CSS Modules · Responsive UI
+
+**LLM role:** Ideation, copy drafts, and initial component code.
+
+**Why it matters:** Strong attention to design, UX polish and client-facing delivery.
+
+---
+
+## How I Use LLMs (concrete & non-ambiguous)
+
+* **Prompt lifecycle:** prototype → evaluate outputs → refine tokens/temperature → integrate.
+* **Scaffolding:** auto-generate routes/controllers/tests → code review & security hardening.
+* **ETL & data cleaning:** orchestrate multi-step transforms using prompts as recipes.
+* **Conversational prototypes:** build agent flows for support, summarization and internal copilots.
+* **Safety:** add input validation, allow-lists, and deterministic fallbacks for critical paths.
+
+---
+
+## What I Deliver (Immediate Wins for Teams)
+
+* Fast MVPs for LLM-driven features (chat assistants, copilots, automation).
+* Hardened, deployable APIs with auth, tests and monitoring suggestions.
+* Developer tooling to speed onboarding and reduce bugs.
+* Production-ready dashboards and small ML pipelines for business insights.
+
+---
+
+## How to Evaluate Me Quickly
+
+1. **Quick repo review:** start with `Depósito AP Online` and `Agenda Livre`.
+2. **Live demo request:** I can show a short 5–10 minute demo of prompt → scaffold → hardened endpoint.
+3. **Take-home idea:** provide a CSV normalization endpoint using an LLM for text normalization — I’ll deliver an MVP.
+4. **Interview:** I prefer a practical session (pair-programming or prompt task).
+
+---
+
+## Availability & Contact
+
+**Relocation:** Sweden (available Sept 2025)
+**Work:** Remote or on-site; English is my working language (advanced)
+**Email:** [nardogomes.lg@gmail.com](mailto:nardogomes.lg@gmail.com)
+**GitHub:** [https://github.com/nardogod](https://github.com/nardogod)
+**LinkedIn:** [https://www.linkedin.com/in/nardogod](https://www.linkedin.com/in/leonardo-gomes-83b8564a/)
+
+---
+
+## Quick next steps I can add for maximum recruiter impact
+
+* Add a small **LLM usage** snippet in every repo README (model used, example prompt, integration point).
+* Publish live demos for two priority projects (frontend on Vercel, backend Docker + Render).
+* Add a short 2-minute demo video explaining prompt-driven development for `Depósito AP Online`.
+
+---
+
+*If you want, I can now add the per-repo "LLM usage" snippets to the README files for Depósito AP Online and Agenda Livre, and publish this root README to your profile.*
